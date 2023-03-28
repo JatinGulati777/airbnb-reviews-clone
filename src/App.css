@@ -1,0 +1,7 @@
+.review-cards{
+    display: flex;
+    flex-direction: row;
+    max-width: 70%;
+    margin: auto;
+    overflow: scroll;
+}
